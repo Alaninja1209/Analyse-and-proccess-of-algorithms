@@ -1,5 +1,4 @@
 //  Created by Alan Alfredo Onofre Chavez on 18/10/22.
-//Reference: https://www.digitalocean.com/community/tutorials/n-queens-problem-java-c-plus-plus
 #include "queenProblem.hpp"
 
 void queenProblem::printBoard(int board[N][N]){
